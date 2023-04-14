@@ -1,0 +1,23 @@
+{
+  "name": "node.js-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanaLiz/node.js-CLI.git"
+  },
+  "author": "Yana",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/YanaLiz/node.js-CLI/issues"
+  },
+  "homepage": "https://github.com/YanaLiz/node.js-CLI#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
